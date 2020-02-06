@@ -6,14 +6,14 @@ pkgver=0.8.2.r1062.2087ab9
 pkgrel=1
 epoch=1
 pkgdesc="Luke's simple (suckless) terminal with vim-bindings, transparency, xresources, etc. "
-url='https://github.com/LukeSmithxyz/st'
+url='https://github.com/Quiterion/st'
 arch=('i686' 'x86_64')
 license=('MIT')
 options=('zipman')
 depends=('libxft')
 makedepends=('ncurses' 'libxext' 'git')
 optdepends=('dmenu: feed urls to dmenu')
-source=('git://github.com/LukeSmithxyz/st')
+source=('git://github.com/Quiterion/st')
 sha1sums=('SKIP')
 
 provides=("${_pkgname}")
