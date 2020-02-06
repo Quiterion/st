@@ -1,6 +1,6 @@
 # Maintainer:
 
-pkgname=st-luke-git
+pkgname=st-luke-git-fork
 _pkgname=st
 pkgver=0.8.2.r1062.2087ab9
 pkgrel=1
