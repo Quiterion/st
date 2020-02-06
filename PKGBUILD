@@ -2,7 +2,7 @@
 
 pkgname=st-luke-git-fork
 _pkgname=st
-pkgver=0.8.2.r1105.a7e7f7c
+pkgver=0.8.2.r1106.ad732e7
 pkgrel=1
 epoch=1
 pkgdesc="Luke's simple (suckless) terminal with vim-bindings, transparency, xresources, etc. "
@@ -12,7 +12,7 @@ license=('MIT')
 options=('zipman')
 depends=('libxft')
 makedepends=('ncurses' 'libxext' 'git')
-optdepends=('dmenu: feed urls to dmenu')
+optdepends=('rofi: feed urls to rofi')
 source=('git://github.com/Quiterion/st')
 sha1sums=('SKIP')
 
