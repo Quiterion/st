@@ -2,7 +2,7 @@
 
 pkgname=st-luke-git-fork
 _pkgname=st
-pkgver=0.8.2.r1109.c7cc89e
+pkgver=0.8.2.r1111.067f1b2
 pkgrel=1
 epoch=1
 pkgdesc="Luke's simple (suckless) terminal with vim-bindings, transparency, xresources, etc. "
